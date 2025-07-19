@@ -102,7 +102,7 @@ projects = [
         "title": "LLM QnA Chatbot using LangChain & Groq API",
         "description": "Built an intelligent QnA chatbot powered by Large Language Models (LLMs) using LangChain and Groq API. The system integrates prompt templates, memory, and document loaders to enable contextual, real-time question-answering over custom data. Optimized for speed and accuracy using Groq’s ultra-fast inference API.",
         "tags": ["LangChain", "HuggingFace", "LLM", "Groq API", "QnA"],
-        "link": "https://qnachatbot-groq.streamlit.app/"
+        "link": "https://groq-llm-chatbot-context-history.streamlit.app/"
     },
 
     {
